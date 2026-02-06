@@ -49,6 +49,9 @@ KPIs + Trends + Overview
 <img width="772" height="433" alt="Overview" src="https://github.com/user-attachments/assets/a5a3591b-26a9-405a-b7e6-4725b6f60caf" />
 
 
+
+
+
 <img width="771" height="436" alt="Detailed" src="https://github.com/user-attachments/assets/716cb4ac-aa85-494f-aa13-165f92f9cb3d" />
 
 
